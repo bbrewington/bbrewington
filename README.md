@@ -30,8 +30,8 @@
 
 ## 📈 Stats
 
-<img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=bbrewington&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="bbrewington stats card" />
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=bbrewington&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact&hide=html,jupyter%20notebook" alt="bbrewington stats card" />
+<img align="left" height=150 src="https://github-readme-stats.vercel.app/api?username=bbrewington&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="bbrewington stats card" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=bbrewington&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact&hide=html,jupyter%20notebook" alt="bbrewington stats card" />
 
 ## 🐢 Random
 

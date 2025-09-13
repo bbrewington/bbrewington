@@ -35,4 +35,4 @@
 ## 🐢 Random
 
 <img height=250 src="https://spotify-recently-played-readme.vercel.app/api?user=127904545&unique={true|1|on|yes}" alt="Brent's Spotify recently played" />
-solutions to drive tangible, measurable results for our clients without any platform bias.  It's a certifiable [great place to work](https://www.aimpointdigital.com/blog/fortune-aimpoint-digital-2023-best-small-workplaces)
+

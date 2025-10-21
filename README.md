@@ -3,12 +3,13 @@
 ## :rocket: About Me
 
 - I'm excited about the overlap of Lean Management & Data teams...basically DevOps for data...DataOps
-- If you're in the Southeast US, I'm running the [Atlanta dbt Meetup](https://www.meetup.com/atlanta-dbt-meetup-group/) - come hang out!
-  - Here's a list of ATL data communities: https://github.com/bbrewington/atlanta-data-community
+- If you're in ATL, check out this list of data & AI communities in the area: https://github.com/bbrewington/atlanta-data-community
+- Tech-y organizations I'm participating in:
+  - [Civic Tech Atlanta](https://www.civictechatlanta.org): partners with local Atlanta (GA, US) organizations and governments on civic-minded projects to make Metro Atlanta more inclusive, diverse, equitable, and accessible
+  - [The Data Liberation Project](https://www.data-liberation-project.org/): an initiative to identify, obtain, reformat, clean, document, publish, and disseminate (US?) government datasets of public interest.  Run by [MuckRock](https://www.muckrock.com/) & [Big Local News](https://biglocalnews.org/)
 
 ## 🔨Tools & Tech
 
-&nbsp;&nbsp;
 ![dbt](https://img.shields.io/badge/-dbt-black?style=flat-square&logo=dbt)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-black?style=flat-square&logo=Snowflake)

@@ -30,9 +30,9 @@
 <a href="https://credentials.getdbt.com/6c93f090-4235-42e9-95fa-ab225bcc29fe#acc.b3kSzUPD" title="dbt Certified Developer" target="_blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163768455" alt="dbt Certified Developer"></img></a>
 
 ## 📈 Stats
-
-<img align="left" height=150 src="https://github-readme-stats.vercel.app/api?username=bbrewington&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="bbrewington stats card" />
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=bbrewington&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact&hide=html,jupyter%20notebook" alt="bbrewington stats card" />
+<!-- Note, this vercel app is managed here in Brent's Vercel account: https://vercel.com/brents-projects-39eba0e2/fork-github-readme-stats-->
+<img align="left" height=150 src="https://fork-github-readme-stats-beta.vercel.app/api?username=bbrewington&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="bbrewington stats card" />
+<img height=150 src="https://fork-github-readme-stats-beta.vercel.app/api/top-langs?username=bbrewington&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact&hide=html,jupyter%20notebook" alt="bbrewington stats card" />
 
 ## 🐢 Random
 

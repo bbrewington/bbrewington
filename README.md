@@ -33,8 +33,3 @@
 <!-- Note, this vercel app is managed here in Brent's Vercel account: https://vercel.com/brents-projects-39eba0e2/fork-github-readme-stats-->
 <img align="left" height=150 src="https://fork-github-readme-stats-beta.vercel.app/api?username=bbrewington&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="bbrewington stats card" />
 <img height=150 src="https://fork-github-readme-stats-beta.vercel.app/api/top-langs?username=bbrewington&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact&hide=html,jupyter%20notebook" alt="bbrewington stats card" />
-
-## 🐢 Random
-
-<img height=250 src="https://spotify-recently-played-readme.vercel.app/api?user=127904545&unique={true|1|on|yes}" alt="Brent's Spotify recently played" />
-
